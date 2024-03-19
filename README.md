@@ -20,7 +20,6 @@ This repository contains weights for YOLOv4, Faster R-CNN, and YOLOv8 networks t
 
 The imagery required for the dataset was obtained from Google Earth. We downloaded 4800 x 2703 sized 3092 RGB images from major airports around the world, such as Paris-Charles de Gaulle, John F. Kennedy, Frankfurt, Istanbul, Madrid, Dallas, Las Vegas, and Amsterdam, as well as aircraft boneyards like Davis-Monthan Air Force Base. The dataset images were manually annotated by creating bounding boxes for each airplane using the HyperLabel software, which still provides annotation services as [Plainsight](https://app.plainsight.ai/). Quality control of each label was conducted through visual inspection by independent analysts who were not involved in the labeling procedure. A total of 18,477 airplanes have been labeled. A sample image and corresponding minimum bounding boxes for airplanes can be seen in the figure below. The dataset has been approximately split as 70% (2170 images) for training, 20% (620 images) for validation, and 10% (311 images) for testing. For those interested in monitoring closely, the sample images used in this dataset can be accessed [here](https://github.com/TolgaBkm/HRPlanes/tree/main/Sample%20Images).
 
-
 <br>
 
 # Download Model and Weights
@@ -34,6 +33,7 @@ The imagery required for the dataset was obtained from Google Earth. We download
  **YOLOv4 Weights and *.cfg* File:** [Download](https://drive.google.com/file/d/1r0AlQE10y21b8bm5pvoj_jtDfDp_-ees/view?usp=sharing)
 
 **Faster R-CNN Frozen Graphs:** [Download](https://drive.google.com/file/d/1L3ho4L7lxxBItVg43zLmnrywQiYrxgWm/view?usp=sharing)
+
 <br>
 
 # Download The Dataset
