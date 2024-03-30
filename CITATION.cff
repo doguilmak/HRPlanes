@@ -1,0 +1,16 @@
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bakirman"
+      given-names: "T."
+    - family-names: "Sertel"
+      given-names: "E."
+  doi: 10.26833/ijeg.1107890
+  journal: "International Journal of Engineering and Geosciences"
+  volume: 8
+  issue: 3
+  pages: "212-223"
+  year: 2023
+  title: "A benchmark dataset for deep learning-based airplane detection: HRPlanes"
+  url: "https://doi.org/10.26833/ijeg.1107890"
+  license: "CC BY-NC-ND 4.0"
