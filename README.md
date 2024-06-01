@@ -8,9 +8,18 @@ This repository contains weights for YOLOv4, Faster R-CNN, and YOLOv8 networks t
 
 **The HRPlanes Dataset can be downloaded now! Please see below for details!**
 
-### Latest Update  :rocket:
+<details>
 
-**February 2024:** The HRPlanes Dataset trained with YOLOv8x is now available for download. Please see below for details.
+<summary>Latest updates...</summary>
+
+<br>
+
+<b>February 2024</b>
+<ol>
+	<li>The HRPlanes Dataset trained with YOLOv8x is now available for download. Please see below for details.</li>
+</ol>
+
+</details>
 
 <br>
 
