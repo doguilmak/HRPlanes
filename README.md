@@ -17,8 +17,8 @@ This repository contains weights for YOLOv4 and Faster R-CNN networks trained wi
 
 <b>December 2024</b>
 <ol>
-	<li>The HRPlanes Dataset is now available in Zenodo. Please see below for details.</li>
-	<li>The HRPlanes weights is now available in Huggingface. Please see below for details.</li>
+	<li>The HRPlanes Dataset is now available on Zenodo. Please see below for details.</li>
+	<li>The HRPlanes weights is now available on Huggingface. Please see below for details.</li>
 </ol>
 
 <b>February 2024</b>
