@@ -45,7 +45,9 @@ The imagery required for the dataset was obtained from Google Earth. We download
 | YOLOv4      | Trained using Darknet. Robust performance with high mAP at 50% IoU but a decrease at higher IoU thresholds. | 99.15% | 91.82%      | 73.02%   | [Download](https://huggingface.co/TolgaBkm/HRPlanes_Weights) |
 | Faster R-CNN| Trained using TensorFlow Object Detection API. Maintains better performance at higher IoU thresholds compared to YOLOv4. | 96.80% | 90.00%      | 76.40%   | [Download](https://huggingface.co/TolgaBkm/HRPlanes_Weights) |
 
-The evaluation results show that both networks perform well up to 75% IoU threshold; the mAP value of YOLOv4 is 73.02%, whereas Faster R-CNN provided slightly better performance with 76.40%. Although YOLOv4 produces very high mAP at 50% IoU value of 99.15%, this value reduces with increasing IoU values and decreases to 91.82% for mAP at 75% IoU. YOLOv4 seems superior considering 50% and 75% IoU thresholds. The decrease rate of AP with increasing IoU is higher for YOLOv4 compared to Faster R-CNN. This indicates that YOLOv4 cannot perform efficiently at IoU thresholds higher than 80% in our dataset. Including a visual representation of these trends, such as a graph, could make the performance differences between the models more accessible and intuitive.
+The evaluation results show that both networks perform well up to 75% IoU threshold; the mAP value of YOLOv4 is 73.02%, whereas Faster R-CNN provided slightly better performance with 76.40%. Although YOLOv4 produces very high mAP at 50% IoU value of 99.15%, this value reduces with increasing IoU values and decreases to 91.82% for mAP at 75% IoU. YOLOv4 seems superior considering 50% and 75% IoU thresholds. The decrease rate of AP with increasing IoU is higher for YOLOv4 compared to Faster R-CNN. This indicates that YOLOv4 cannot perform efficiently at IoU thresholds higher than 80% in our dataset. 
+
+<!-- Including a visual representation of these trends, such as a graph, could make the performance differences between the models more accessible and intuitive. -->
 
 <br>
 
